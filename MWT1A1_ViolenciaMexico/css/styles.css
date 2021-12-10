@@ -1,0 +1,48 @@
+.mi-clase {
+background-color: rgb(4, 14, 13);
+color: rgb(90, 90, 114);
+height: 100px;
+widows: 300px;
+}
+.titulo {
+  background-color: gray;
+  text-align: center;
+  font-size: 18px;
+  text-decoration: underline;
+  padding-top: 10px;
+  padding-bottom: 20px;
+
+}
+.img {
+  display:block;
+  margin:auto;  
+  margin-top: 20px;
+  
+  width:35%;
+}
+.cuadro-de-texto{
+    background-color: gray;
+    padding-left: 70px;
+    padding-right: 70px;
+    display: inline-block;
+    margin-top: 20px;
+    width: 30%;
+    text-align: center;
+
+}
+.cuadro-de-texto2{
+    background-color: gray;
+    padding-left: 70px;
+    padding-right: 70px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 70px;
+
+}.imagen-salinas{
+    width: 70%;
+
+}
+.contenedor-padre{
+  display:flex;
+  justify-content: space-between;
+}
